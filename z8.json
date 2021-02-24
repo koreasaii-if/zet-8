@@ -48,7 +48,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/room-9\/room-9.json"
+                 "value":"..\/gar-1\/gar-1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
